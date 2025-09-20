@@ -10,3 +10,4 @@ Conversion Rate: +157%
 
 Unsubscribe Rate: -413%
 Revenue analysis showed Flash Sale & Newsletter campaigns (~$7M each) as the most effective.
+
